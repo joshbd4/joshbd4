@@ -2,7 +2,9 @@
 
 **`Software Developer`**
 
-I'm a 3rd year computer science student at Simon Fraser University with hands on experience developing enterprise software and full-stack applications. When I'm on break from school, I enjoy building projects and getting them into the hands of real users.
+I'm a 3rd year computer science student at Simon Fraser University with hands on experience developing enterprise software and full-stack applications.
+
+When I'm on break from school, I enjoy building projects and getting them into the hands of real users.
 
 
 ---
