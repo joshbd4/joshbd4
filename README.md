@@ -1,6 +1,6 @@
 # Joshua Deng
 
-**`Digital Craftsman`**
+**`Software Developer`**
 
 I'm a 3rd year computer science student at Simon Fraser University with hands on experience developing enterprise software.
 
